@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #A9A9A9;
+}
+
+#canvas {
+  background-color: white;
+}
